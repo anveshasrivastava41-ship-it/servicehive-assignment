@@ -12,7 +12,15 @@ It simulates a real-world AI-driven SaaS sales agent that can:
 * Capture leads via a structured workflow
 
 ---
+## 📸 Demo Screenshots
 
+### Chat Interaction
+![Chat UI](screenshots/chat.png)
+
+### Lead Capture Flow
+![Lead Capture](screenshots/lead.png)
+
+---
 ## 🚀 Features
 
 ### 🧠 Intent Detection
